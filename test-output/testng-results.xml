@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-06T23:05:19 IST" name="Suite" finished-at="2026-10-06T23:05:29 IST" duration-ms="9686">
+    <groups>
+    </groups>
+    <test started-at="2026-10-06T23:05:19 IST" name="Test" finished-at="2026-10-06T23:05:29 IST" duration-ms="9686">
+      <class name="test.SaucedemoCheckoutTest">
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoCheckoutTest@32eff876]" started-at="2026-10-06T23:05:27 IST" name="object" finished-at="2026-10-06T23:05:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoCheckoutTest.textVerify()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="textVerify()[pri:8, instance:test.SaucedemoCheckoutTest@32eff876]" started-at="2026-10-06T23:05:27 IST" name="textVerify" finished-at="2026-10-06T23:05:27 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textVerify -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoCheckoutTest@32eff876]" started-at="2026-10-06T23:05:27 IST" name="browserclose" finished-at="2026-10-06T23:05:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=textVerify status=SUCCESS method=SaucedemoCheckoutTest.textVerify()[pri:8, instance:test.SaucedemoCheckoutTest@32eff876] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoCheckoutTest@32eff876]" started-at="2026-10-06T23:05:27 IST" name="object" finished-at="2026-10-06T23:05:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoCheckoutTest.submit()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="submit()[pri:9, instance:test.SaucedemoCheckoutTest@32eff876]" started-at="2026-10-06T23:05:27 IST" name="submit" finished-at="2026-10-06T23:05:28 IST" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoCheckoutTest@32eff876]" started-at="2026-10-06T23:05:28 IST" name="browserclose" finished-at="2026-10-06T23:05:28 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=submit status=SUCCESS method=SaucedemoCheckoutTest.submit()[pri:9, instance:test.SaucedemoCheckoutTest@32eff876] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- test.SaucedemoCheckoutTest -->
+      <class name="test.SaucedemoCarttest">
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:26 IST" name="object" finished-at="2026-10-06T23:05:26 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoCarttest.getCartTxt()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="getCartTxt()[pri:4, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:26 IST" name="getCartTxt" finished-at="2026-10-06T23:05:27 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCartTxt -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="browserclose" finished-at="2026-10-06T23:05:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getCartTxt status=SUCCESS method=SaucedemoCarttest.getCartTxt()[pri:4, instance:test.SaucedemoCarttest@5e0826e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="object" finished-at="2026-10-06T23:05:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoCarttest.enableBtnContinue()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="enableBtnContinue()[pri:5, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="enableBtnContinue" finished-at="2026-10-06T23:05:27 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableBtnContinue -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="browserclose" finished-at="2026-10-06T23:05:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enableBtnContinue status=SUCCESS method=SaucedemoCarttest.enableBtnContinue()[pri:5, instance:test.SaucedemoCarttest@5e0826e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method signature="enableBtnCheckout()[pri:6, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="enableBtnCheckout" finished-at="2026-10-06T23:05:27 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableBtnCheckout -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="object" finished-at="2026-10-06T23:05:27 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoCarttest.enableBtnCheckout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="browserclose" finished-at="2026-10-06T23:05:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enableBtnCheckout status=SUCCESS method=SaucedemoCarttest.enableBtnCheckout()[pri:6, instance:test.SaucedemoCarttest@5e0826e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="object" finished-at="2026-10-06T23:05:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoCarttest.clickCheckoutbtn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="clickCheckoutbtn()[pri:7, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="clickCheckoutbtn" finished-at="2026-10-06T23:05:27 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCheckoutbtn -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoCarttest@5e0826e7]" started-at="2026-10-06T23:05:27 IST" name="browserclose" finished-at="2026-10-06T23:05:27 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickCheckoutbtn status=SUCCESS method=SaucedemoCarttest.clickCheckoutbtn()[pri:7, instance:test.SaucedemoCarttest@5e0826e7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- test.SaucedemoCarttest -->
+      <class name="test.SaucedemoHometest">
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="object" finished-at="2026-10-06T23:05:25 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoHometest.products()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="products()[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="products" finished-at="2026-10-06T23:05:25 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- products -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="browserclose" finished-at="2026-10-06T23:05:25 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=products status=SUCCESS method=SaucedemoHometest.products()[pri:0, instance:test.SaucedemoHometest@6dc17b83] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="object" finished-at="2026-10-06T23:05:25 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoHometest.dropdownSorting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="dropdownSorting()[pri:1, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="dropdownSorting" finished-at="2026-10-06T23:05:25 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownSorting -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="browserclose" finished-at="2026-10-06T23:05:25 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=dropdownSorting status=SUCCESS method=SaucedemoHometest.dropdownSorting()[pri:1, instance:test.SaucedemoHometest@6dc17b83] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="object" finished-at="2026-10-06T23:05:25 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoHometest.cart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="cart()[pri:2, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:25 IST" name="cart" finished-at="2026-10-06T23:05:26 IST" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:26 IST" name="browserclose" finished-at="2026-10-06T23:05:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cart status=SUCCESS method=SaucedemoHometest.cart()[pri:2, instance:test.SaucedemoHometest@6dc17b83] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:26 IST" name="object" finished-at="2026-10-06T23:05:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoHometest.iconCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="iconCart()[pri:3, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:26 IST" name="iconCart" finished-at="2026-10-06T23:05:26 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iconCart -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoHometest@6dc17b83]" started-at="2026-10-06T23:05:26 IST" name="browserclose" finished-at="2026-10-06T23:05:26 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=iconCart status=SUCCESS method=SaucedemoHometest.iconCart()[pri:3, instance:test.SaucedemoHometest@6dc17b83] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- test.SaucedemoHometest -->
+      <class name="test.SaucedemoFinalTest">
+        <test-method signature="finish()[pri:10, instance:test.SaucedemoFinalTest@8dbdac1]" started-at="2026-10-06T23:05:28 IST" name="finish" finished-at="2026-10-06T23:05:28 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoFinalTest@8dbdac1]" started-at="2026-10-06T23:05:28 IST" name="object" finished-at="2026-10-06T23:05:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoFinalTest.finish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoFinalTest@8dbdac1]" started-at="2026-10-06T23:05:28 IST" name="browserclose" finished-at="2026-10-06T23:05:28 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=finish status=SUCCESS method=SaucedemoFinalTest.finish()[pri:10, instance:test.SaucedemoFinalTest@8dbdac1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- test.SaucedemoFinalTest -->
+      <class name="test.SaucedemoLogintest">
+        <test-method is-config="true" signature="set()[pri:0, instance:test.SaucedemoLogintest@62150f9e]" started-at="2026-10-06T23:05:19 IST" name="set" finished-at="2026-10-06T23:05:24 IST" duration-ms="4826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method is-config="true" signature="object(java.lang.reflect.Method)[pri:0, instance:test.SaucedemoLogintest@62150f9e]" started-at="2026-10-06T23:05:24 IST" name="object" finished-at="2026-10-06T23:05:24 IST" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.SaucedemoLogintest.login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="login()[pri:0, instance:test.SaucedemoLogintest@62150f9e]" started-at="2026-10-06T23:05:24 IST" name="login" finished-at="2026-10-06T23:05:25 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.SaucedemoLogintest@62150f9e]" started-at="2026-10-06T23:05:25 IST" name="browserclose" finished-at="2026-10-06T23:05:25 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=SaucedemoLogintest.login()[pri:0, instance:test.SaucedemoLogintest@62150f9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="save()[pri:0, instance:test.SaucedemoLogintest@62150f9e]" started-at="2026-10-06T23:05:28 IST" name="save" finished-at="2026-10-06T23:05:29 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- save -->
+      </class> <!-- test.SaucedemoLogintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

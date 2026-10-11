@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="test.SaucedemoLogintest">
+        <methods>
+          <include name="browserclose"/>
+          <include name="login"/>
+          <include name="set"/>
+          <include name="object"/>
+          <include name="save"/>
+        </methods>
+      </class> <!-- test.SaucedemoLogintest -->
+      <class name="test.SaucedemoFinalTest">
+        <methods>
+          <include name="browserclose"/>
+          <include name="set"/>
+          <include name="object"/>
+          <include name="finish"/>
+          <include name="save"/>
+        </methods>
+      </class> <!-- test.SaucedemoFinalTest -->
+      <class name="test.SaucedemoCarttest">
+        <methods>
+          <include name="browserclose"/>
+          <include name="clickCheckoutbtn"/>
+          <include name="set"/>
+          <include name="enableBtnCheckout"/>
+          <include name="enableBtnContinue"/>
+          <include name="object"/>
+          <include name="save"/>
+          <include name="getCartTxt"/>
+        </methods>
+      </class> <!-- test.SaucedemoCarttest -->
+      <class name="test.SaucedemoCheckoutTest">
+        <methods>
+          <include name="browserclose"/>
+          <include name="set"/>
+          <include name="textVerify"/>
+          <include name="submit"/>
+          <include name="object"/>
+          <include name="save"/>
+        </methods>
+      </class> <!-- test.SaucedemoCheckoutTest -->
+      <class name="test.SaucedemoHometest">
+        <methods>
+          <include name="browserclose"/>
+          <include name="set"/>
+          <include name="dropdownSorting"/>
+          <include name="cart"/>
+          <include name="object"/>
+          <include name="products"/>
+          <include name="save"/>
+          <include name="iconCart"/>
+        </methods>
+      </class> <!-- test.SaucedemoHometest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
